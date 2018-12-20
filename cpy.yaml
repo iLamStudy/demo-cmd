@@ -1,0 +1,5 @@
+author:lanbery Cai <lanbery@gmail.com>
+license:
+        header : This file is part of {{.appName}}.
+        text: | 
+                {{.copyright }}
