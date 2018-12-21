@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/DappNBS/demo-cmd/cmd"
+import "github.com/iLamStudy/demo-cmd/cmd"
 
 func main() {
 	cmd.Execute()
